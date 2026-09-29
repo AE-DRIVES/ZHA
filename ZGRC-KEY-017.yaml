@@ -1,4 +1,4 @@
-_blueprint:
+blueprint:
   name: ZHA - Sunricher ZGRC-KEY-017
   description: Control buttons of the remote
   domain: automation
